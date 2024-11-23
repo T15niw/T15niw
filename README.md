@@ -2,7 +2,7 @@
 - 👀 M interested in **TECHNOLOGY, SCIENCE FICTION N EVERYTHIN' IN BETWEEN**
 - 🌱 M currently learnin' _maaaaany_ things
 - 📫 Feel free 2 reach out t me by sendin' a letter with a homing pigeon
-- 🤓 Fun fact: Your brain is constantly **eatin'** itself
+- ⚡ Fun fact: Your brain is constantly **eatin'** itself
 
 <!--
 **T15niw/T15niw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
