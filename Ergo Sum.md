@@ -1,4 +1,4 @@
-###  Wafayn! M @T15niw 👊
+###  Wafayn! 👊 M @T15niw aka Tasnim 
 - 👀 M interested in **TECHNOLOGYYYYYYY, SCIENCE FICTION N EVERYTHIN' IN BETWEEN**
 - 🌱 M currently learnin' _maaaaany_ things
 - 📫 Feel free 2 reach out t me by sendin' a letter with a homing pigeon
