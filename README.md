@@ -1,6 +1,6 @@
 ###   M @T15niw aka TASNIM
 - 👀 M interested in **TECHNOLOGY, SCIENCE FICTION N EVERYTHIN' IN BETWEEN**
-- 🌱 M currently learnin' _maaaaany_ things
+- 🌱 M currently learnin' Web Development
 - 📫 Feel free 2 reach out t me by sendin' a letter with a homing pigeon
 - ⚡ Fun fact: Your brain is constantly **eatin'** itself
 
