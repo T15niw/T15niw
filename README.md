@@ -2,7 +2,7 @@
 
 ###
 
-###   I'm @T15niw and I'm a Web Developer, leaning more to Front-end development and anything visual🎨 
+###   I'm @T15niw, a Web Developer leaning more to Front-end development and anything visual🎨 
 - 👀 M interested in **ROBOTICS, SCIENCE FICTION N EVERYTHIN' IN BETWEEN**
 - 📚 M currently learning about Databases
 - 📫 Feel free to reach out to me by sending a letter with a homing pigeon OR via [Gmail](tasnim8mezgueldi@gmail.com)
