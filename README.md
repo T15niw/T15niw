@@ -1,30 +1,11 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey there 👋, I'm @T15niw/ Tasnim </h1>
+ <h3 align="center"><b>I'm a WEB DEVELOPER leaning more to FRONT-END and visuals 🎨 </b></h3>
+ <p align="center">👀 And I'm interested in ROBOTICS, SCIENCE FICTION N EVERYTHIN' IN BETWEEN</p>
+ <br>
 
 ###
 
-###   I'm @T15niw/ Tasnim
-<h4>a Web Developer leaning more to Front-end development and anything visual🎨 </h4>
-- 👀 M interested in **ROBOTICS, SCIENCE FICTION N EVERYTHIN' IN BETWEEN**
-- 📚 M currently learning about Databases
-- ✉️ Feel free to reach out to me by sending a letter with a homing pigeon OR via [Gmail](tasnim8mezgueldi@gmail.com)
-- ⚡ Fun fact: Your brain is constantly **eatin'** itself
-
- 
-<h3 align="left">Let's connect!</h3>
-
-###
-
-<div align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/tasnim-ma/" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</div>
-
-###
-
-<h2 align="center">🛠️ **Languages and Tools** 🛠️</h2>
-
-###
+<h2 align="center"> Languages and Tools I use 🛠️</h2>
 
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> <img width="15" />
@@ -36,25 +17,43 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /> <img width="15" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> 
 </div>
+<br>
 
 ###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=T15niw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T15niw&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
+<br>
+
+###
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+- Databases
+- React.js
+  
+ ###
+
+<br> <h2 align="center">Send me a letter ✉️ </h2>
+<p align="center"> You can reach me at: <a href="tasnim.mezgueldi@gmail.com">tasnim.mezgueldi@gmail.com</a> </p>
+<br>
+ 
+<h2 align="center">Let's connect!</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/tasnim-ma/" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</div>
+<br>
+
+<h2 align="center">⚡ Fun fact</h2>
+<p align="center">Your brain is constantly <b>eating</b> itself</p>
+
+
+###
 
 
 
 
-<!--
-**T15niw/T15niw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
