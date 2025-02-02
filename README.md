@@ -2,10 +2,11 @@
 
 ###
 
-###   I'm @T15niw, a Web Developer leaning more to Front-end development and anything visual🎨 
+###   I'm @T15niw/ Tasnim
+<h4>a Web Developer leaning more to Front-end development and anything visual🎨 </h4>
 - 👀 M interested in **ROBOTICS, SCIENCE FICTION N EVERYTHIN' IN BETWEEN**
 - 📚 M currently learning about Databases
-- 📫 Feel free to reach out to me by sending a letter with a homing pigeon OR via [Gmail](tasnim8mezgueldi@gmail.com)
+- ✉️ Feel free to reach out to me by sending a letter with a homing pigeon OR via [Gmail](tasnim8mezgueldi@gmail.com)
 - ⚡ Fun fact: Your brain is constantly **eatin'** itself
 
  
@@ -21,7 +22,7 @@
 
 ###
 
-<h2 align="center">🛠️ Languages and Tools 🛠️</h2>
+<h2 align="center">🛠️ **Languages and Tools** 🛠️</h2>
 
 ###
 
