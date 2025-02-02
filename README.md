@@ -46,8 +46,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
-<h2 align="center">⚡ Fun fact</h2>
-<p align="center">Your brain is constantly <b>eating</b> itself</p>
 
 
 ###
