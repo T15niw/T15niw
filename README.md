@@ -23,7 +23,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T15niw&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
-<br>
 
 ###
 
@@ -46,7 +45,6 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
-<br>
 
 <h2 align="center">⚡ Fun fact</h2>
 <p align="center">Your brain is constantly <b>eating</b> itself</p>
