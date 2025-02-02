@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="center">📚 Currently Learning</h2>
+<h2 align="center">📚 Currently Learning..</h2>
  <p align="center">
   React.js<br>
   Databases<br>
