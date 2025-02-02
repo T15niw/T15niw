@@ -1,6 +1,7 @@
 <h1 align="center">Hey there 👋, I'm @T15niw/ Tasnim </h1>
  <h3 align="center"><b>I'm a WEB DEVELOPER leaning more to FRONT-END and visuals 🎨 </b></h3>
  <p align="center">👀 I'm interested in ROBOTICS, SCIENCE FICTION ND EVERYTHIN' IN BETWEEN</p>
+ <p align="center">📚 Currently Learning about: Databases</p>
  <br>
 
 ###
@@ -24,13 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T15niw&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
-###
-
-<h2 align="center">📚 Currently Learning..</h2>
- <p align="center">
-  React.js<br>
-  Databases<br>
- </>
   
  ###
 
