@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm @T15niw/ Tasnim </h1>
+<h1 align="center">Hey there 👋, I'm Tasnim </h1>
  <h3 align="center"><b>I’m a WEB DEVELOPER with a strong focus on FRONT-END development and visual DESIGN 🎨 </b></h3><br>
  <p align="center">👀 I'm interested in ROBOTICS, SCIENCE FICTION ND EVERYTHIN' IN BETWEEN</p>
  <p align="center">📚 Currently I'm learning about: DATABASES</p>
