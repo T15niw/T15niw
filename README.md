@@ -1,8 +1,8 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+there!;I'm+Tasnim;A+Web+Developer;Focusing+on+Front-end+Dev" alt="Typing SVG" /></a>
 </div><br>
- <p align="center">👀 I'm interested in ROBOTICS, SCIENCE FICTION ND EVERYTHIN' IN BETWEEN</p>
- <p align="center">📚 Currently I'm learning about: DATABASES </p>
+ <p align="center">👀 I'm interested in ROBOTICS, SCIENCE FICTION ND EVERYTHIN' IN BETWEEN 👀</p>
+ <p align="center">📚 Currently I'm learning about: DATABASES 📚</p>
 
 
 ---
