@@ -21,12 +21,6 @@
 
 ###
 
-###
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T15niw&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-
   
  ---
 
@@ -36,8 +30,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/tasnim-ma/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
-  <a href="https://www.instagram.com/e_tasnimm/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  /></a>
 </div>
 
 ###
